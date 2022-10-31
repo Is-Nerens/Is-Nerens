@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoodlePlexium
 - 👀 I’m interested in Game Development and Algo Trading
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 📫 How to reach me? email@ arran.ns@icloud.com
 
 <!---
