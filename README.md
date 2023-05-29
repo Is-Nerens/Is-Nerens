@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoodlePlexium
+- 👋 Hi, I’m Arran Stevens
 - 👀 I’m interested in Game Development and Algo Trading
 - 🌱 I’m currently learning C++
 - 📫 How to reach me? email@ arran.ns@icloud.com
