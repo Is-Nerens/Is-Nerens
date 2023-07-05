@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arran Stevens
-- 👀 I’m interested in Game Development and Algo Trading
+- 👀 I’m interested in 3D Computer Graphics and Algo Trading
 - 🌱 I’m currently learning C++
+- Working towards an internship at Tesla :))
 - 📫 How to reach me? email@ arran.ns@icloud.com
 
 <!---
