@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arran Stevens
 - 👀 I’m interested in 3D Computer Graphics and Algo Trading
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently Vulkan & WPF
 - 📫 How to reach me? email@ arran.ns@icloud.com
 
 <!---
