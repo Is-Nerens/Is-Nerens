@@ -2,6 +2,7 @@
 ### Computer Science student at Goldsmiths, University of London
 - Python C++ JavaScript
 - HTML/CSS Unity
+- Node.js
 
 ## Marching Cubes Destructable Terrain
 - Destructable voxel terrain with procdural generation
