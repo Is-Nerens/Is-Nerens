@@ -1,8 +1,8 @@
 ## I’m Arran Stevens
 ### Computer Science student at Goldsmiths, University of London
 - Python C++ JavaScript
-- HTML/CSS Unity
-- Node.js
+- HTML/CSS Node.js
+- Unity
 
 ## Marching Cubes Destructable Terrain
 - Destructable voxel terrain with procdural generation
