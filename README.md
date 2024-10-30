@@ -1,5 +1,5 @@
 ## I’m Arran Stevens
-### Computer Science Undegraduate at Goldsmiths, University of London
+### Computer Science student at Goldsmiths, University of London
 
 reach me @email: arran.ns@icloud.com
 
