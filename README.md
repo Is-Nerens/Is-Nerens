@@ -1,7 +1,5 @@
 ## I’m Arran Stevens
 ### Computer Science student at Goldsmiths, University of London
-<br></br>
-My Skills
 - Python C++ JavaScript
 - HTML/CSS 
 
