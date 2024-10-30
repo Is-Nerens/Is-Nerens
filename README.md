@@ -8,5 +8,6 @@
 
 ## Wickburner Algorithmic Trading Application
 - Commercial desktop trading application in development
+  
 ![Wickburner Trading App](https://github.com/NoodlePlexium/NoodlePlexium/blob/main/Wickburner%20App.png)
 
