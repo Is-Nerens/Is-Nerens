@@ -5,7 +5,7 @@
 - Unity
 
 ## Marching Cubes Destructable Terrain
-- Destructable voxel terrain with procdural generation
+- Destructable voxel terrain with procedural generation
   
 ![Marching Cubes Terrain](https://github.com/NoodlePlexium/NoodlePlexium/blob/main/Marching%20Cubes%20Terrain.jpg)
 
