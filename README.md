@@ -12,7 +12,7 @@
 
 ## Rayleak Path Tracer
 - Created for my final University project
-![Rayleak]([https://github.com/Is-Nerens/Rayleak_Renderer](https://github.com/Is-Nerens/Rayleak_Renderer/blob/master/Example%20Render.jpg))
+![Rayleak](https://github.com/Is-Nerens/Rayleak_Renderer/blob/master/Example%20Render.jpg)
 
 ## Algorithmic Trading Application
 - Commercial desktop trading application in development
