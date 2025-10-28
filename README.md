@@ -1,5 +1,5 @@
 ## I’m Arran Stevens
-##### A local softwre developer
+##### A local software developer
 
 - C C++ JavaScript Python 
 - HTML CSS Node.js
