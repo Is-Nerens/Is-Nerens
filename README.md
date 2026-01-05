@@ -1,8 +1,7 @@
 ## I’m Arran Stevens
 ##### A local software developer
 
-- C C++ JavaScript Python 
-- HTML CSS Node.js
+- C JavaScript Python Golang
 - Unity Blender Godot
 
 ## Marching Cubes Destructable Terrain
