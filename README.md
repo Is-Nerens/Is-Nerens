@@ -1,5 +1,5 @@
 ## I’m Arran Stevens
-##### A local software developer who likes desktop apps and UIs
+##### A local software developer who likes 3D games, desktop apps and UIs
 
 - C JavaScript Python Golang
 - Unity Blender Godot
